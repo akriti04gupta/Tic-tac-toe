@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgb(219, 213, 180);
+    color: white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    font-family: "Kalnia Glaze", serif;
+    font-size: x-large;
+    padding: 0px 50px 0px 50px;
+}
+nav ul{
+    list-style-type:none;
+}
+body{
+    background-color: rgb(189, 224, 254);
+}
+.b{
+    height: 100px;
+    width: 100px;
+    font-size: xx-large;
+    color: red;
+    background-color: rgb(255, 200, 221);
+    border-radius: 10px;
+    border-color: rgb(255, 200, 221); 
+    box-shadow: 5px 5px 10px black;
+}
+.container{
+    padding-top: 60px ;
+}
+.game{
+    padding-left: 37%;
+}
+.info{
+    padding: 30px 0px 0px 46%;
+}
+.row2{
+    height: 100px;
+    padding: 10px 0px 10px 0px;
+}
+.btn{
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+}
+.msg-container{
+    display: flex;
+    align-items: center;
+    font-family: "Kalnia Glaze", serif;
+    font-size: x-large;
+    padding: 0px 50px 0px 50px;
+}
+.hide{
+    display: none;
+}
